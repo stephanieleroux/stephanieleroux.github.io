@@ -1,2 +1,0 @@
-# stephanieleroux.github.io
-webpage
