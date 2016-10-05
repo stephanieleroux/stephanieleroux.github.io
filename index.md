@@ -6,7 +6,7 @@ layout: default
 ### Current position:
 I am a post-doctoral research & engineering assistant in the [MEOM group](http://lgge.osug.fr/meom/), LGGE, Grenoble, France. 
 
-[![image]({{site.baseurl}}/img/SL_3.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
+[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/SL_3.png)](https://stephanieleroux.github.io)
 
 ### .
 

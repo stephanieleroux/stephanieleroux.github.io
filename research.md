@@ -18,4 +18,4 @@ approach**](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_l
 
 ### -- Page under construction (oct 2016). More soon!
 
-[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io/research)
+[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io/research) | [![image]({{site.baseurl}}/img/SL_3.png)](https://stephanieleroux.github.io)
