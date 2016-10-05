@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Submitted 
 
-1. test  \( \LaTeX \)
+1. test  $\Gamma(n) = (n-1)!\quad N$ is via through the Euler integral
 
 
 ### Peer-reviewed publications
