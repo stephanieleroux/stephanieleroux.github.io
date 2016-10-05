@@ -21,13 +21,6 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](https://stephanieleroux.github.io/research) 
 
 ### Links to:
-  - My Curriculum Vitae [download here] updated oct. 2016.
+  - My Curriculum Vitae [ [download here] ](({{site.baseurl}}/docs/CVleroux2016EN.pdf), updated oct. 2016.
  - Orcid ID: [orcid.org/0000-0001-6515-3735](http://orcid.org/orcid.org/0000-0001-6515-3735)
- - Research Gate:
-
-### .
-
-
-### -- Page under construction (oct 2016). More soon!
-
 
