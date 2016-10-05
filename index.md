@@ -23,7 +23,8 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 ### Curriculum Vitae :
  - My Curriculum Vitae [ [download here] ](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
 
-### Misc.
+
+### Misc. links:
  - Orcid ID: [orcid.org/0000-0001-6515-3735](http://orcid.org/orcid.org/0000-0001-6515-3735).
  - My account on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
  
