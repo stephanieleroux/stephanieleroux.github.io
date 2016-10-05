@@ -16,6 +16,4 @@ approach** (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry
  (AMOC, Heat Content, SST, etc).
 
 
-#### -- Page under construction (oct 2016). More soon!
-
 [![image]({{site.baseurl}}/img/ensemble.png)](http://stephanieleroux.github.io/research) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
