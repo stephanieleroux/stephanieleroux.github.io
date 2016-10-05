@@ -4,15 +4,12 @@ permalink: /OCCIPUT/
 ---
 
 ## OCCIPUT
+Project funded by ANR/PRACE  (2014-2017). **P.I.**: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 ![image]({{site.baseurl}}/img/ensemble.png)| ![image]({{site.baseurl}}/img/hires.png)
 
-
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4º ocean/sea-ice hindcasts.**
-
-Project funded by ANR/PRACE  (2014-2017). **P.I.**: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
-
 
 Eddy-resolving Ocean General Circulation Models (~1/4º resolution) are progressively replacing laminar OGCMs  (coarser than 1º) in ocean-atmosphere  coupled systems used for climate projections.
 Unlike in laminar models, a substantial amount of intrinsic and chaotic variability is shown to spontaneously emerge in eddying OGCMs under climatological atmospheric forcing (i.e. identically repeated from year to year), and to cascade up to multidecadal and basin scales (Penduff et al 2014, Serazin et al 2015, Gregorio et al, 2015). OCCIPUT now aims to investigate this chaotic low-frequency intrinsic variability (LFIV) in the presence of  an interannually-varying atmosphere, through a probabilistic approach based on a large ensemble of 1/4º ocean/sea-ice hindcasts.
