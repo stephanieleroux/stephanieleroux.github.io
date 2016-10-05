@@ -22,7 +22,7 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
 #### Documents:
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
-  -  OCCIPUT presentation given at the GMMC workshop, June 2016 [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
+  -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
 #### Publications:
   - (in prep. 2016) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
