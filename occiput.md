@@ -1,8 +1,9 @@
 ---
 layout: page
-title: OCCIPUT
 permalink: /OCCIPUT/
 ---
+
+## OCCIPUT
 
 ![image]({{site.baseurl}}/img/ensemble.png)| ![image]({{site.baseurl}}/img/hires.png)
 
@@ -15,6 +16,9 @@ Project funded by ANR/PRACE  (2014-2017). P.I.: [Thierry Penduff](http://lgge.os
 
 Eddy-resolving Ocean General Circulation Models (~1/4º resolution) are progressively replacing laminar OGCMs  (coarser than 1º) in ocean-atmosphere  coupled systems used for climate projections.
 Unlike in laminar models, a substantial amount of intrinsic and chaotic variability is shown to spontaneously emerge in eddying OGCMs under climatological atmospheric forcing (i.e. identically repeated from year to year), and to cascade up to multidecadal and basin scales (Penduff et al 2014, Serazin et al 2015, Gregorio et al, 2015). It however remains an open question how this chaotic low-frequency intrinsic variability (LFIV) may be modified or paced in the presence of  an interannually-varying atmosphere.
+
+![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
+
 
 #### Documents:
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
@@ -34,4 +38,3 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
 ![image]({{site.baseurl}}/img/occiputsponsors.png)
 
-![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
