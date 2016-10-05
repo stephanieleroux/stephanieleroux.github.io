@@ -4,7 +4,7 @@ permalink: /OCCIPUT/
 ---
 
 ## OCCIPUT
-Project funded by ANR/PRACE  (2014-2017). **P.I.**: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
+Project funded by ANR/PRACE  (2014-2017). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 ![image]({{site.baseurl}}/img/ensemble.png)| ![image]({{site.baseurl}}/img/hires.png)
 
