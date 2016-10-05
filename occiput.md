@@ -39,6 +39,8 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
  - (2015) G. Sérazin, T. Penduff, S. Grégorio, B. Barnier, J. M. Molines, and L. Terray. *Intrinsic variability of sea-level from global 1/12º ocean simulations: spatio-temporal scales*. Journal of Climate, 28:4279–4292.
   
+### Contact:
+ [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
 
 
 ![image]({{site.baseurl}}/img/occiputsponsors.png)
