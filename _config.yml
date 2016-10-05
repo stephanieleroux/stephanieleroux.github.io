@@ -5,9 +5,9 @@
 
 # Site settings
 title: Stephanie Leroux
-email: stephanie.leroux@univ-grenoble-alpes.fr
+email: stephanie.leroux_aatt_univ-grenoble-alpes.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Physical Oceanographer
+  webpage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://stephanieleroux.github.io/
 github_username:  stephanieleroux
