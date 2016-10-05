@@ -4,13 +4,13 @@ title: OCCIPUT
 permalink: /OCCIPUT/
 ---
 
-[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io/research) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
+![image]({{site.baseurl}}/img/ensemble.png)| ![image]({{site.baseurl}}/img/hires.png)
 
 
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4º ocean/sea-ice hindcasts.**
 
-Project funded byANR  and PRACE  (2014-2017). P.I.: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry)
+Project funded by ANR/PRACE  (2014-2017). P.I.: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 
 Eddy-resolving Ocean General Circulation Models (~1/4º resolution) are progressively replacing laminar OGCMs  (coarser than 1º) in ocean-atmosphere  coupled systems used for climate projections.
@@ -32,7 +32,6 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
   
 
 
-[![image]({{site.baseurl}}/img/occiputsponsors.png)](https://stephanieleroux.github.io/research) 
+![image]({{site.baseurl}}/img/occiputsponsors.png)
 
-
-[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io/research) 
+![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
