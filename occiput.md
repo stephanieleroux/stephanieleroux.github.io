@@ -11,7 +11,7 @@ permalink: /OCCIPUT/
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4º ocean/sea-ice hindcasts.**
 
-Project funded by ANR/PRACE  (2014-2017). P.I.: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry)
+Project funded by ANR/PRACE  (2014-2017). **P.I.**: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 
 Eddy-resolving Ocean General Circulation Models (~1/4º resolution) are progressively replacing laminar OGCMs  (coarser than 1º) in ocean-atmosphere  coupled systems used for climate projections.
