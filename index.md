@@ -21,7 +21,7 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/research) 
 
 ### Curriculum Vitae :
- - My  [**Curriculum Vitae**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
+ - My  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
 
 
 ### Misc. links:
