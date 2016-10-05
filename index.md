@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<!---
-## Research & engineering assistant
--->
 
 ### I am a post-doctoral research & engineering assistant in the [MEOM group](http://lgge.osug.fr/meom/), LGGE, Grenoble, France. 
 
