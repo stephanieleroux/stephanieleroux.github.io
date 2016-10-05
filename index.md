@@ -26,5 +26,5 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 
 ### -- Page under construction (oct 2016). More soon!
 
-
+[![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](https://stephanieleroux.github.io/research) 
 

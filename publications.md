@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Submitted 
 
-1. test
+1. test $ /latex $
 
 
 ### Peer-reviewed publications
@@ -18,4 +18,4 @@ permalink: /publications/
 
 ### PhD Thesis dissertation
 
-**Leroux Stephanie**  (2009). Test
+**Leroux Stephanie**  (2009). Dynamics of the African Easterly Waves: origin, propagation and interaction with the environnement.  
