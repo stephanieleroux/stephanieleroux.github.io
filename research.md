@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
-[![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](https://stephanieleroux.github.io/research) 
+[![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io/research)[![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](https://stephanieleroux.github.io/research) 
 
 ### Research interests:
   - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 

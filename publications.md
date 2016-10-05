@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Submitted 
 
-1. test $ /latex $
+1. test  \( \LaTeX \)
 
 
 ### Peer-reviewed publications
