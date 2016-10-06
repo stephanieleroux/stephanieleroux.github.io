@@ -22,11 +22,11 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/research) 
 
 ### Background and Curriculum Vitae :
- - My  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
-  - I am a former undergraduate student from Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences from ENS Lyon and Uni. J. Fourier, Grenoble, France (2005).
- - I have a PhD in atmospheric dynamics (2006-2009) from  LTHE/Uni. J. Fourier, Grenoble, France. 
+ - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
+  - I am a former undergraduate student from Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2005) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
+ - I have a **PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. 
  - I have then worked as a postdoctoral research assistant at NOAA, Boulder, CO (2010-2011) and at SUNY , Albany, NY (2012) in the United States, then at CNRM/Météo-France, Toulouse, France (2013-2014), and now at MEOM/LGGE, Grenoble, France since march 2015.
- - I also got the french high-school teaching diploma "Agrégation SVT" (2005). 
+ - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
 ### Misc.
  - Orcid ID: [orcid.org/0000-0001-6515-3735](http://orcid.org/orcid.org/0000-0001-6515-3735).
