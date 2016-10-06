@@ -5,7 +5,7 @@ title: Home
 
 
 ### Current position:
-**I am a post-doctoral research & engineering assistant in the** [**MEOM group**](http://lgge.osug.fr/meom/), LGGE, Grenoble, France.
+**I am a post-doctoral research & engineering assistant in the** [**MEOM group**](http://lgge.osug.fr/meom/), [LGGE](http://lgge.osug.fr/?lang=en), Grenoble, France.
 
 [![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
 
@@ -23,7 +23,7 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry))
 
 ### Background and Curriculum Vitae :
  - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
-  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2005) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
+  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
  - I have a **PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. 
  - I have then worked as a postdoctoral research assistant at NOAA, Boulder, CO (2010-2011) and at SUNY , Albany, NY (2012) in the United States, then at CNRM/Météo-France, Toulouse, France (2013-2014), and now at MEOM/LGGE, Grenoble, France since march 2015.
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
