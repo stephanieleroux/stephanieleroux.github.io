@@ -28,9 +28,9 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
  - (2016 in rev.) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. doi:10.5194/gmd-2016-174 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) .
 
- - (2015) Grégorio, T. Penduff, G. Sérazin, J. M. Molines, B. Barnier, and J. Hirshi. *Intrinsic variability of the Atlantic meridional overturning circulation at interannual-to- multidecadal timescales. Journal of Physical Oceanography*.
+ - (2015) Grégorio, T. Penduff, G. Sérazin, J. M. Molines, B. Barnier, and J. Hirshi. *Intrinsic variability of the Atlantic meridional overturning circulation at interannual-to- multidecadal timescales*. Journal of Physical Oceanographym 45:1929-1948.
 
- - (2015) Sérazin, B. Meyssiniac, and T. Penduff. *Quantifying uncertainties on regional sea-level change induced by multi-decadal oceanic intrinsic variability*. Geoph. Res. Lett..
+ - (2015) Sérazin, B. Meyssiniac, and T. Penduff. *Quantifying uncertainties on regional sea-level change induced by multi-decadal oceanic intrinsic variability*. Geoph. Res. Lett., 43(15), doi: 10.1002/2016GL069273.
 
  - (2015) G. Sérazin, T. Penduff, S. Grégorio, B. Barnier, J. M. Molines, and L. Terray. *Intrinsic variability of sea-level from global 1/12º ocean simulations: spatio-temporal scales*. Journal of Climate, 28:4279–4292.
 
