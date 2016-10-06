@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 ### In revision 
-- (2016) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](doi:10.5194/gmd-2016-174) *Development of a probabilistic ocean modelling system with NEMO at eddying resolution.*
+ - (2016) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
 
 
 ### Peer-reviewed 
