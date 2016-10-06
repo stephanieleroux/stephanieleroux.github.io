@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 permalink: /OCCIPUT/
 ---
 
@@ -30,11 +30,12 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
  - (2015) Grégorio, T. Penduff, G. Sérazin, J. M. Molines, B. Barnier, and J. Hirshi. *Intrinsic variability of the Atlantic meridional overturning circulation at interannual-to- multidecadal timescales. Journal of Physical Oceanography*.
 
- - (2011) Penduff, M. Juza, B. Barnier, J. Zika, W. K. Dewar, A.-M. Treguier, J.-M. Molines, and N. Audiffren. *Sea level expression of intrinsic and forced ocean variabilities at interannual time scales*. Journal of Climate, 24(21):5652–5670.
-
  - (2015) Sérazin, B. Meyssiniac, and T. Penduff. *Quantifying uncertainties on regional sea-level change induced by multi-decadal oceanic intrinsic variability*. Geoph. Res. Lett..
 
  - (2015) G. Sérazin, T. Penduff, S. Grégorio, B. Barnier, J. M. Molines, and L. Terray. *Intrinsic variability of sea-level from global 1/12º ocean simulations: spatio-temporal scales*. Journal of Climate, 28:4279–4292.
+
+ - (2011) Penduff, M. Juza, B. Barnier, J. Zika, W. K. Dewar, A.-M. Treguier, J.-M. Molines, and N. Audiffren. *Sea level expression of intrinsic and forced ocean variabilities at interannual time scales*. Journal of Climate, 24(21):5652–5670.
+
   
 ### Contact:
  [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
