@@ -40,7 +40,7 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 ### Contact:
  [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
 
-### Project partners:
+### Project participants:
  - MEOM/LGGE, Grenoble, France.
  - CERFACS, Toulouse, France.
 ![image]({{site.baseurl}}/img/occiputsponsors.png)
