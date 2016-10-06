@@ -26,7 +26,7 @@ Unlike in laminar models, a substantial amount of intrinsic and chaotic variabil
 
   - (in prep. 2016) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
 
- - (2016 in rev.) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](doi:10.5194/gmd-2016-174) *Development of a probabilistic ocean modelling system with NEMO at eddying resolution.*
+ - (2016 in rev.) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174: **Development of a probabilistic ocean modelling system with NEMO at eddying resolution.**](doi:10.5194/gmd-2016-174) .
 
  - (2015) Grégorio, T. Penduff, G. Sérazin, J. M. Molines, B. Barnier, and J. Hirshi. *Intrinsic variability of the Atlantic meridional overturning circulation at interannual-to- multidecadal timescales. Journal of Physical Oceanography*.
 
