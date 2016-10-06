@@ -5,7 +5,7 @@ title: Home
 
 
 ### Current position:
-I am a post-doctoral research & engineering assistant in the [MEOM group](http://lgge.osug.fr/meom/), LGGE, Grenoble, France. 
+**I am a post-doctoral research & engineering assistant in the** [**MEOM group**](http://lgge.osug.fr/meom/), LGGE, Grenoble, France.
 
 [![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
 
@@ -16,16 +16,19 @@ I am a post-doctoral research & engineering assistant in the [MEOM group](http:/
   - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, Atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
 
 ### Current project:
-  - I am  currently working as part of the french ANR project [OCCIPUT](http://stephanieleroux.github.io/OCCIPUT) on intrinsic ocean variability in eddy-permitting ocean models via a probabilistic/ensemble simulation
+  - I am  currently working as part of  [OCCIPUT](http://stephanieleroux.github.io/OCCIPUT), an ANR-funded project on intrinsic ocean variability in eddy-permitting ocean models via a probabilistic/ensemble simulation
 approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry)). I investigate low-frequency intrinsic ocean variability in the OCCIPUT ensemble simulation (50× ocean/sea-ice global 1/4º hindcasts 1960-2015) with a focus on ocean quantities with potential impact on climate variability 
  (AMOC, Heat Content, SST, etc).
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/research) 
 
-### Curriculum Vitae :
+### Background and Curriculum Vitae :
  - My  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2016EN.pdf), updated oct. 2016.
+  - I am a former undergraduate student from Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences from ENS Lyon and Uni. J. Fourier, Grenoble, France (2005).
+ - I have a PhD in atmospheric dynamics (2006-2009) from  LTHE/Uni. J. Fourier, Grenoble, France. 
+ - I have then worked as a postdoctoral research assistant at NOAA, Boulder, CO (2010-2011) and at SUNY , Albany, NY (2012) in the United States, then at CNRM/Météo-France, Toulouse, France (2013-2014), and now at MEOM/LGGE, Grenoble, France since march 2015.
+ - I also got the french high-school teaching diploma "Agrégation SVT" (2005). 
 
-
-### Misc. links:
+### Misc.
  - Orcid ID: [orcid.org/0000-0001-6515-3735](http://orcid.org/orcid.org/0000-0001-6515-3735).
  - my account on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
  - my account on [GitHub](https://github.com/stephanieleroux)
