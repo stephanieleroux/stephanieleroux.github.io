@@ -14,7 +14,7 @@ permalink: /publications/
 
 
 ### Peer-reviewed 
-- (2016) **Leroux S.**, Bellon G., Roehrig R., Caian M., Klingaman N., Musat I., Rio C.,  Tyteca S. Inter-model comparison of sub-seasonal tropical variability in aquaplanet experiments: effect of a warm pool, JAMES (EOR), [doi:10.1002/2016MS000683](doi:10.1002/2016MS000683).
+- (2016) **Leroux S.**, Bellon G., Roehrig R., Caian M., Klingaman N., Musat I., Rio C.,  Tyteca S. Inter-model comparison of sub-seasonal tropical variability in aquaplanet experiments: effect of a warm pool, JAMES (EOR), [doi:10.1002/2016MS000683](http://onlinelibrary.wiley.com/doi/10.1002/2016MS000683/abstract).
 - (2013) Dias J., S., **Leroux S.**, S. N. Tulich, and G. N. Kiladis. How systematic is organized tropical convection within the mjo? Geophys. Res. Lett., 40:1420–1425.
 - (2012) Liebmann B., I. Bladé, G. N. Kiladis, L. M. V. Carvalho, Senay, D. Allured, **S. Leroux**, and C. Funk. Seasonality of african precipitation from 1996 to 2009. J. Climate, 25(12):4304–4322.
 - (2011) **Leroux S.**, N. M. J. Hall, and G. N. Kiladis. Intermittent african easterly wave activity in a dry atmospheric model: influence of the extratropics. J. Climate, 24:5378–5396.
