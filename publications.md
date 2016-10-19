@@ -27,4 +27,4 @@ permalink: /publications/
  
 ### PhD Thesis dissertation
 
-- (2009) **Leroux S.** , Dynamics of the African Easterly Waves: origin, propagation and interaction with the environnement.  Université J. Fourier, Grenoble, France
+- (2009) **Leroux S.** , Dynamics of the African Easterly Waves: origin, propagation and interaction with the environnement.  Université J. Fourier, Grenoble, France. [Pdf here](https://tel.archives-ouvertes.fr/tel-00434322/document)  (mostly in french).
