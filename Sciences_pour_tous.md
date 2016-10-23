@@ -1,11 +1,9 @@
 ---
-layout: simple
+layout: page
+title: Sciences pour tous
 permalink: /Sciences pour tous/
 ---
 
-
-
-![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
 
 
 
@@ -18,8 +16,8 @@ permalink: /Sciences pour tous/
   - Les Tribulations Savantes: journée de vulgarisation scientifique des activités des étudiants de l'école doctorale Terre Univers Environnement de l'Université de Grenoble. [ici](http://laitue.osug.fr/tribulations_savantes/tribulations_savantes.php)
 
 
-### Contact:
-  - Pour des infos sur les laboratoires de recherche Grenoblois sur les sciences du climat, l'océanographie, les sciences de la Terre, vous pouvez me contacter par email: 
+#### Contact:
+  - Pour des infos sur les laboratoires de recherche Grenoblois sur les sciences du climat, l'océanographie, les sciences de la Terre, vous pouvez me contacter par email (mon adresse en bas de page). 
  
 ![image]({{site.baseurl}}/img/misterre.png) ![image]({{site.baseurl}}/img/cassou.png)
 
