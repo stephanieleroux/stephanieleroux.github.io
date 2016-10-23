@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
+order: 2
 ---
 
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/research) 
