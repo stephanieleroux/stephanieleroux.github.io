@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sciences pour tous
-permalink: /Sciencespourtous/
+title: Science pour tous
+permalink: /Sciencepourtous/
 order: 4
 ---
 
