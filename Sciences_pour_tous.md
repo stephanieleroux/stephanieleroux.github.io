@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Research2
-permalink: /Research2/
+title: Sciences pour tous
+permalink: /Sciencespourtous/
+order: 4
 ---
 
 
