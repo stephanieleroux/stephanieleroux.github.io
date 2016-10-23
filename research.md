@@ -15,6 +15,8 @@ order: 2
   - I am  taking part in the french ANR project [OCCIPUT](http://stephanieleroux.github.io/OCCIPUT)  on  **intrinsic ocean variability in eddy-permitting ocean models via a probabilistic/ensemble simulation
 approach** (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry)). I investigate low-frequency intrinsic ocean variability in the OCCIPUT ensemble simulation (50× ocean/sea-ice global 1/4º hindcasts 1960-2015) with a focus on ocean quantities with potential impact on climate variability 
  (AMOC, Heat Content, SST, etc).
+ - See the project's page [here](http://stephanieleroux.github.io/OCCIPUT).
+
 
 
 [![image]({{site.baseurl}}/img/ensemble.png)](http://stephanieleroux.github.io/research) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
