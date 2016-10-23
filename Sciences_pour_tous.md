@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /Ressources/
+title: Research2
+permalink: /Research2/
 ---
 
 
