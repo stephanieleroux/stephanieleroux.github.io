@@ -16,9 +16,10 @@ order: 4
   - Ressources d'enseignement en Sciences de la Terre: Planet-Terre (ENS Lyon) [ici](http://planet-terre.ens-lyon.fr/).
   - Les Tribulations Savantes: journée de vulgarisation scientifique des activités des étudiants de l'école doctorale Terre Univers Environnement de l'Université de Grenoble. [ici](http://laitue.osug.fr/tribulations_savantes/tribulations_savantes.php)
 
+[![image]({{site.baseurl}}/img/misterre.png)](http://www.insu.cnrs.fr/files/plaquette_missterre.pdf)
 
 #### Contact:
   - Pour des infos sur les laboratoires de recherche Grenoblois sur les sciences du climat, l'océanographie, les sciences de la Terre et de l'Environnement, vous pouvez me contacter par email (mon adresse en bas de page). 
  
-[![image]({{site.baseurl}}/img/misterre.png)](http://www.insu.cnrs.fr/files/plaquette_missterre.pdf) [![image]({{site.baseurl}}/img/cassou.png)](https://www.amazon.fr/Met%C3%A9o-climat-nest-m%C3%AAme-chose/dp/2746506521)[![image]({{site.baseurl}}/img/circulation.png)](http://paoc.mit.edu/labguide/circ.html)[![image]({{site.baseurl}}/img/turb.png)](http://paoc.mit.edu/labguide/dye.html)
+[![image]({{site.baseurl}}/img/turb.png)](http://paoc.mit.edu/labguide/dye.html) [![image]({{site.baseurl}}/img/cassou.png)](https://www.amazon.fr/Met%C3%A9o-climat-nest-m%C3%AAme-chose/dp/2746506521)[![image]({{site.baseurl}}/img/circulation.png)](http://paoc.mit.edu/labguide/circ.html)
 
