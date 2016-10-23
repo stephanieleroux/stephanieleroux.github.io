@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sciences pour tous
-permalink: /Sciences pour tous/
+permalink: /Ressources/
 ---
 
 
