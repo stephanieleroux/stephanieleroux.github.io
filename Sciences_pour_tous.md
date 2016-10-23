@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sciences pour tous
+title: Ressources
 permalink: /Ressources/
 ---
 
