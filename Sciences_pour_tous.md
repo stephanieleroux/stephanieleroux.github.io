@@ -12,10 +12,10 @@ order: 4
   - Infos glaciologie et climat sur le site web du LGGE (Laboratoire de Glaciologie et Géophysique de l'Environnement: [ici](http://lgge.osug.fr/rubrique5.html).
   - Plaquette Misterre: Climat: Modéliser pour comprendre et anticiper. A télécharger [ici](http://www.insu.cnrs.fr/files/plaquette_missterre.pdf).
   - Livre pour enfant: Metéo et climat, ce n'est pas la même chose ! C. Cassou. [Ici](https://www.amazon.fr/Met%C3%A9o-climat-nest-m%C3%AAme-chose/dp/2746506521).
-  - Weather in a tank (MIT): [ici](http://paoc.mit.edu/labguide/apparatus.html) (site en anglais).
   - Ressources d'enseignement en Sciences de la Terre: Planet-Terre (ENS Lyon) [ici](http://planet-terre.ens-lyon.fr/).
   - Les Tribulations Savantes: journée de vulgarisation scientifique des activités des étudiants de l'école doctorale Terre Univers Environnement de l'Université de Grenoble. [ici](http://laitue.osug.fr/tribulations_savantes/tribulations_savantes.php)
-
+  - Weather in a tank (MIT): [ici](http://paoc.mit.edu/labguide/apparatus.html) (site en anglais).
+  -  Cours de dynamique des fluides géophysiques, niveau master, N. Hall  [ici](https://www.youtube.com/channel/UCqjV8aiVVEvRdYf4DG6Br-w) (cours en français, diapos en anglais)
 
 
 #### Contact:
