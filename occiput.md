@@ -15,9 +15,8 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 .
 
-
+*Figure : The OCCIPUT ensemble experiment:*
 ![image]({{site.baseurl}}/img/occiput-spagettis2.png)
-*Figure : The OCCIPUT ensemble experiment.*
 
 .
 
