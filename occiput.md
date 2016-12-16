@@ -4,24 +4,24 @@ permalink: /OCCIPUT/
 ---
 
 # OCCIPUT
-Project funded by ANR/PRACE  (2014-2017). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
+Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 ![image]({{site.baseurl}}/img/ensemble.png)| ![image]({{site.baseurl}}/img/hires.png)
 
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4º ocean/sea-ice hindcasts.**
 
-Eddy-resolving Ocean General Circulation Models (~1/4º resolution) are progressively replacing laminar OGCMs  (coarser than 1º) in ocean-atmosphere  coupled systems used for climate projections.
-Unlike in laminar models, a substantial amount of intrinsic and chaotic variability is shown to spontaneously emerge in eddying OGCMs under climatological atmospheric forcing (i.e. identically repeated from year to year), and to cascade up to multidecadal and basin scales (Penduff et al 2014, Serazin et al 2015, Gregorio et al, 2015). OCCIPUT now aims to investigate this chaotic low-frequency intrinsic variability (LFIV) in the presence of  an interannually-varying atmosphere, through a probabilistic approach based on a large ensemble of 1/4º ocean/sea-ice hindcasts.
+Turbulent ocean models spontaneously generate a chaotic variability up to multi­decadal/basin scales. How this low­-frequency chaos impacts climate-relevant oceanic indices is an important unsettled question. To separate this chaos from the atmospherically-forced response, MEOM and CERFACS have performed a pioneering 50-member ensemble of 1/4° global ocean/sea-ice simulations (1960-2015), starting from perturbed initial conditions then driven by the same atmospheric forcing with time. The results reveal the importance of the oceanic chaos up to  large spatio-temporal scales and its modulation by the atmosphere, and this raises new issues about the detection/attribution of climate change in the ocean and the potential impact of this low-frequency chaos on the atmosphere.
+
 
 ![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
 
 
-#### Documents:
+#### Some materials:
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
-#### Publications:
+#### Related publications:
   - (in prep. 2016) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
 
   - (in prep. 2016) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
