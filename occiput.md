@@ -13,11 +13,13 @@ Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Pen
 
 Turbulent ocean models spontaneously generate a chaotic variability up to multi­decadal/basin scales. How this low­-frequency chaos impacts climate-relevant oceanic indices is an important unsettled question. To separate this chaos from the atmospherically-forced response, MEOM and CERFACS have performed a pioneering 50-member ensemble of 1/4° global ocean/sea-ice simulations (1960-2015), starting from perturbed initial conditions then driven by the same atmospheric forcing with time. The results reveal the importance of the oceanic chaos up to  large spatio-temporal scales and its modulation by the atmosphere, and this raises new issues about the detection/attribution of climate change in the ocean and the potential impact of this low-frequency chaos on the atmosphere.
 
+.
+
 
 ![image]({{site.baseurl}}/img/occiput-spagettis2.png)
 *Figure : Schematic of the OCCIPUT ensemble simulation*
 
-
+.
 ### **Some OCCIPUT documents and presentations:**
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
