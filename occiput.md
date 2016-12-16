@@ -17,12 +17,13 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 
 ![image]({{site.baseurl}}/img/occiput-spagettis2.png)
-*Figure : The OCCIPUT ensemble experiment*
+*Figure : The OCCIPUT ensemble experiment.*
 
 .
 
-### **Some OCCIPUT documents and presentations:**
+### **Documents:**
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
+   
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
 ### **Related publications:**
