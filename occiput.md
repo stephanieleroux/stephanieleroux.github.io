@@ -17,11 +17,11 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 ![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)
 
 
-#### Some materials:
+### Some materials:
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
-#### Related publications:
+### Related publications:
   - (in prep. 2016) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
 
   - (in prep. 2016) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
