@@ -18,11 +18,11 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 *Figure : Schematic of the OCCIPUT ensemble simulation*
 
 
-### Some OCCIPUT documents and presentations:
+### **Some OCCIPUT documents and presentations:**
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
-### Related publications:
+### **Related publications:**
   - (in prep. 2016) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
 
   - (in prep. 2016) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
@@ -40,10 +40,10 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
  - (2011) Penduff, M. Juza, B. Barnier, J. Zika, W. K. Dewar, A.-M. Treguier, J.-M. Molines, and N. Audiffren. *Sea level expression of intrinsic and forced ocean variabilities at interannual time scales*. Journal of Climate, 24(21):5652–5670.
 
   
-### Contact:
+### **Contact:**
  [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
 
-### Project participants:
+### **Project participants:**
  - **MEOM/LGGE**, Grenoble, France.
  - **CERFACS**, Toulouse, France.
 ![image]({{site.baseurl}}/img/occiputsponsors.png)
