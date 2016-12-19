@@ -6,7 +6,7 @@ order: 1
 
 
 ### Current position:
-**I am a post-doctoral research & engineering assistant in the** [**MEOM group**](https://meom-group.github.io/about/), Grenoble, France.
+**I am a post-doctoral research & engineering assistant in the** [**MEOM group**](https://meom-group.github.io/about/), at IGE, Grenoble, France.
 
 [![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
 
