@@ -10,11 +10,9 @@ order: 3
 - (2016) Sérazin G., Jaymond A., **Leroux**, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
 
 
-### In revision 
- - (2016) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
-
-
 ### Peer-reviewed 
+ - (2016, in press) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
+
 - (2016) **Leroux S.**, Bellon G., Roehrig R., Caian M., Klingaman N., Musat I., Rio C.,  Tyteca S. Inter-model comparison of sub-seasonal tropical variability in aquaplanet experiments: effect of a warm pool, JAMES (EOR), [doi:10.1002/2016MS000683](http://onlinelibrary.wiley.com/doi/10.1002/2016MS000683/abstract).
 - (2013) Dias J., S., **Leroux S.**, S. N. Tulich, and G. N. Kiladis. How systematic is organized tropical convection within the mjo? Geophys. Res. Lett., 40:1420–1425.
 - (2012) Liebmann B., I. Bladé, G. N. Kiladis, L. M. V. Carvalho, Senay, D. Allured, **S. Leroux**, and C. Funk. Seasonality of african precipitation from 1996 to 2009. J. Climate, 25(12):4304–4322.
