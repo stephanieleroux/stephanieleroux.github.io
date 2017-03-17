@@ -5,11 +5,9 @@ permalink: /publications/
 order: 3
 ---
 
-### In preparation
-- (2017, to be submitted by the end of February) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC :insights from a large ensemble ocean hindcast.*
-
 ### Submitted
-- (2017) Sérazin G., Jaymond A., **Leroux**, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
+- (2017) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC :insights from a large ensemble ocean hindcast.*
+- (2017) Sérazin G., Jaymond A., **Leroux**, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., GRL, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
 
 
 ### Peer-reviewed 
