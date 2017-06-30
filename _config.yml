@@ -5,7 +5,7 @@
 
 # Site settings
 title: Stephanie Leroux
-email: stephanie.leroux[[aaa]]univ-grenoble-alpes.fr
+email: stephanie.leroux[[aaa]]ocean-next.fr
 description: > # this means to ignore newlines until "baseurl:"
   webpage
 baseurl: "" # the subpath of your site, e.g. /blog
