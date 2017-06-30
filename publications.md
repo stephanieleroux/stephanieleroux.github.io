@@ -5,13 +5,14 @@ permalink: /publications/
 order: 3
 ---
 
-### Submitted
-- (2017) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC :insights from a large ensemble ocean hindcast.*
-- (2017) Sérazin G., Jaymond A., **Leroux**, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., GRL, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
+### Submitted, under review
+- (2017, under review) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC :insights from a large ensemble ocean hindcast.*
 
 
 ### Peer-reviewed 
- - (2017, in press) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
+- (2017, in press) Sérazin G., Jaymond A., **Leroux**, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., GRL, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
+
+- (2017) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-2016-174](http://www.geosci-model-dev-discuss.net/gmd-2016-174/) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
 
 - (2016) **Leroux S.**, Bellon G., Roehrig R., Caian M., Klingaman N., Musat I., Rio C.,  Tyteca S. Inter-model comparison of sub-seasonal tropical variability in aquaplanet experiments: effect of a warm pool, JAMES (EOR), [doi:10.1002/2016MS000683](http://onlinelibrary.wiley.com/doi/10.1002/2016MS000683/abstract).
 - (2013) Dias J., S., **Leroux S.**, S. N. Tulich, and G. N. Kiladis. How systematic is organized tropical convection within the mjo? Geophys. Res. Lett., 40:1420–1425.
