@@ -26,7 +26,7 @@ approach (PI: [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry),
  - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2017EN.pdf), updated feb. 2017.
   - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
  - I have a **PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. 
- - I have then worked as a postdoctoral research assistant at NOAA, Boulder, CO (2010-2011) and at SUNY , Albany, NY (2012) in the United States, then at CNRM/Météo-France, Toulouse, France (2013-2014), and now at MEOM/LGGE, Grenoble, France since march 2015.
+ - I have then worked as a postdoctoral research assistant at NOAA, Boulder, CO (2010-2011) and at SUNY , Albany, NY (2012) in the United States, then at CNRM/Météo-France, Toulouse, France (2013-2014), then at MEOM/IGE, Grenoble, France until march 2015, and now at Ocean Next, Grenoble, France.
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
 ### Misc.
