@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Aug 2017 20:05:43 +0200</pubDate>
-    <lastBuildDate>Fri, 18 Aug 2017 20:05:43 +0200</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2017 20:48:22 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2017 20:48:22 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -19,13 +19,13 @@
 
 &lt;p&gt;Check this out:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;images/cover_2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;images/cover_2.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/images/cover_2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/blog/images/cover_2.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;images/cover_3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;images/cover_3.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/images/cover_3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/blog/images/cover_3.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And another:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;images/cover_5.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;images/cover_2.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/images/cover_5.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;&quot;&gt;&lt;img src=&quot;/blog/images/cover_2.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Click &lt;a href=&quot;&quot;&gt;here&lt;/a&gt; to read more.
 &lt;!--more--&gt;
