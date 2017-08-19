@@ -43,7 +43,7 @@
   <meta name="msapplication-TileImage" content="/blog/images/favicons/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" href="/blog/css/main.css?1503121824837500000">
+  <link rel="stylesheet" href="/blog/css/main.css?1503164058569427000">
   <link rel="canonical" href="http://localhost:4000/blog//2016/welcome-to-jekyll/">
   <link rel="alternate" type="application/rss+xml" title="Photo blog by Steph & R" href="/blog/feed.xml">
 </head>
@@ -126,29 +126,93 @@
     <h1 class="post-title">Welcome to Jekyll!</h1>
   </header>
   <section class="post">
-    <p>Inauguration du nouveau blog jekyll/github. <!--more--></p>
+    <p>Inauguration du nouveau blog jekyll/github.</p>
 
+<p>Qu’en pensez-vous? <!--more--></p>
+ 
   </section>
-  <section id="disqus_thread"></section><!-- /#disqus_thread -->
+<hr class="post-list__divider">
+
+
+<h4 class="comment-title">Commentaires /Comments: </h4>
+<div class="comments">
+    
+        <div id="comment-1" class="comment" />
+            <div class="comment-author">
+                <em>    27 August 2016, 21:11 by  Truc</em>
+            </div>
+            <div class="comment-contents">
+                <p>Cool!</p>
+
+            </div>
+        </div>
+    
+        <div id="comment-2" class="comment" />
+            <div class="comment-author">
+                <em>    10 January 2017, 10:56 by  Machin</em>
+            </div>
+            <div class="comment-contents">
+                <p>Bof, nul.</p>
+
+            </div>
+        </div>
+    
+        <div id="comment-3" class="comment" />
+            <div class="comment-author">
+                <em>    10 February 2017, 11:07 by  Steph</em>
+            </div>
+            <div class="comment-contents">
+                <p>Blahbla</p>
+
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+<h4 class="comment-title">Envoyer un commentaire / Send a comment:</h4>
+<form method="POST" action="/blog//comments/submit.php"> 
+    <input type="hidden" name="post_id" value="/2016/welcome-to-jekyll" />
+    <input type="hidden" name="return_url" value="/2016/welcome-to-jekyll/" />
+    <table class="comment-table">
+        <tr>
+            <th>Nom/Name :</th>
+            <td>
+                <input type="text" size="25" name="name"    style="width: 150px;" />
+                <em>(required)</em>
+            </td>
+        </tr>
+        <tr>
+            <th>E-mail :</th>
+            <td>
+                <input type="text" size="25" name="email"  style="width: 150px;" />
+                <em>(optional, not published)</em>
+            </td>
+        </tr>
+                <tr>
+            <td colspan="2">
+                Quelle est la 3ieme lettre de <code>blog</code>&nbsp;? What is the 3rd letter in <code>blog</code>&nbsp;? <input type="text" name="antispam" size="1" maxlength="1" style="width: 10px;"/>
+                <em>(antispam)</em>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <textarea name="comment" rows="10"  cols="70"></textarea><br />
+                <em>Les commentaires sont formatés en <a href="https://daringfireball.net/projects/markdown/syntax/">markdown</a>.</em>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input class="comment-submit" type="submit" value="Envoyer/Send" />
+            </td>
+        </tr>
+    </table>
+</form>
+
+
 </article>
-
-    <script type="text/javascript">
-      var disqus_config = function () {
-        this.page.url = 'http://localhost:4000/2016/welcome-to-jekyll/';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = '/2016/welcome-to-jekyll'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-      };
-
-      (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = '//stephanielx.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-       })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
 
       </div>
 
@@ -157,7 +221,7 @@
 </footer>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script type="text/javascript" src="/blog/js/main.js?1503121824837500000"></script>
+<script type="text/javascript" src="/blog/js/main.js?1503164058569427000"></script>
 
 
     </div>

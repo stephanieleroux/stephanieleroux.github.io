@@ -977,7 +977,7 @@ h3 {
 	font-size: 1.8em; }
 
 h4 {
-	font-size: 1.4em; }
+	font-size: 1.5em; }
 
 h4 {
 	font-size: 1.2em; }
@@ -1685,3 +1685,80 @@ input[type="tel"] {
 	.btn, .navigation__item a {
 		display: block;
 		margin-bottom: .4em; } }
+
+
+
+
+.comments {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    margin-bottom: 1em;
+}
+
+.comment-contents {
+    margin-top: 1em;
+}
+
+.comment {
+    margin-top: 1em;
+    padding: 1em;
+    background: #f8f8f8;
+}
+
+.comment-rom {
+    margin-top: 1em;
+    padding: 1em;
+    background: #e8e8e8;
+}
+
+.comment-pingback {
+    margin-top: 1em;
+    padding: 1em;
+}
+
+.comment-author {
+    font-weight: bold;
+}
+
+.comment-date a {
+    font-size: 0.7em;
+    font-style: italic;
+    color: #888;
+}
+
+.comment-title {
+    font-weight: 400;
+}
+
+.comment-table {
+    border: medium none;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: .9rem;
+}
+
+table.comment-table th {
+    text-align: right;
+    border: medium none;
+}
+
+table.comment-table td {
+    border: medium none;
+}
+
+table.comment-table textarea {
+    width: 100%;
+}
+
+table.comment-table tbody tr td,
+table.comment-table tbody tr th {
+    background: none;
+}
+
+.comment-submit {
+    float: right;
+}
+
+.sidebar-checkbox {
+  /* fixes navbar behavior <https://github.com/poole/lanyon/issues/192> */
+  display: none;
+}
