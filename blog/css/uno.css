@@ -966,7 +966,7 @@ h5 {
 
 h1 {
 	margin-top: 0;
-	font-size: 3.2em;
+	font-size: 2em;
 	line-height: 1.2em;
 	letter-spacing: .05em; }
 
@@ -987,7 +987,7 @@ h5 {
 
 p {
 	margin-bottom: 1.3em;
-	line-height: 1.7em; }
+	line-height: 1.5em; }
 
 strong {
 	font-weight: bold; }
@@ -1065,7 +1065,7 @@ pre {
 
 .excerpt {
 	margin: 0;
-	font-size: .9em;
+	font-size: 1em;
 	color: #999999; }
 
 .intro {
@@ -1121,7 +1121,7 @@ pre {
 
 .footer__copyright {
 	display: block;
-	margin-bottom: .7em; }
+	margin-bottom: .8em; }
 	.footer__copyright a {
 		color: #a6a6a6;
 		text-decoration: underline; }
@@ -1184,7 +1184,7 @@ hr {
 	border-top: 1px solid #dddddd; }
 
 .error-code {
-	font-size: 6em; }
+	font-size: 5em; }
 
 .panel {
 	display: table;
@@ -1761,4 +1761,44 @@ table.comment-table tbody tr th {
 .sidebar-checkbox {
   /* fixes navbar behavior <https://github.com/poole/lanyon/issues/192> */
   display: none;
+}
+
+
+.PageNavigation {
+	display: block;
+	line-height: 5em;
+    font-size: 0.85em;
+    font-style: italic;
+    color: #c7c7c7; 
+    width: auto;
+    overflow: hidden;
+float: right;
+margin: 0 0 .4em 0;
+}
+
+.PageNavigation a {
+  	display: block;
+  text-decoration: overline;
+  margin: 1em 0;
+}
+.PageNavigation a:hover {
+  	display: block;
+  text-decoration: overline;
+  margin: 1em 0;
+  color: #000000; 
+}
+
+.PageNavigation .next {
+  text-align: right;
+  text-decoration: underline;
+  float:right;
+  color: #c7c7c7;
+  border-color: #c7c7c7;
+}
+
+.PageNavigation .prev {
+  text-decoration: underline;
+  color: #c7c7c7;
+  text-align: right;
+  float: right
 }
