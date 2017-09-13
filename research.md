@@ -22,7 +22,7 @@ In other words, it means that the most accurate collection of satellite/in-situ 
 At [Ocean Next](http://www.ocean-next.fr), in partnership with the [MEOM](https://meom-group.github.io/) group within several projects (e.g.  ANR [OCCIPUT](https://meom-group.github.io/projects/occiput/) and  PIRATE-OSTST), we develop such  probabilistic approaches, based on large-ensemble eddy-permitting ocean simulations. Our goal is to better quantify and characterize the model uncertainty related to the intrinsic variabity of the ocean, and to provide useful information to better interpret satellite and in-situ ocean data. It includes  a quantification of the chaotic variability and a better characterization of the locations, depth, temporal and spatial scales that are the most affected by a chaotic behaviour in models, and wich are thus  affected by  the largest uncertainty in any comparison with satellite or in-situ observations.
 
 
-#### My research background:
+### My research background:
   - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
   - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, Atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
   - See my list of peer-reviewed publications [here](http://stephanieleroux.github.io/publications/) or on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
