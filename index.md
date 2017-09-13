@@ -15,7 +15,7 @@ order: 1
 ### .
 
 
-### Academic background and Curriculum Vitae :
+### **Academic background and Curriculum Vitae** :
  - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2017EN.pdf), updated feb. 2017.
  
  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
@@ -23,20 +23,21 @@ order: 1
  - **I have a PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. 
   
  - I have then worked as a postdoctoral research assistant at:
- 	- NOAA, Boulder, CO, USA (2010-2011),
- 	- SUNY , Albany, NY, USA (2012),
- 	- CNRM/Météo-France, Toulouse, France (2013-2014),
- 	- MEOM/IGE, Grenoble, France (2015-2017)
+      - NOAA, Boulder, CO, USA (2010-2011),
+      - SUNY , Albany, NY, USA (2012),
+      - CNRM/Météo-France, Toulouse, France (2013-2014),
+      - MEOM/IGE, Grenoble, France (2015-2017)
  	
  - My current position is now scientist at  Ocean Next, Grenoble, France since July 2017.
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
-### Research background:
+### **Research background**:
   - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
   - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
 
-### Misc.
+### **Misc**.
+ - My peered-reviewed publications: [here](https://stephanieleroux.github.io/publications/).
  - Orcid ID: [orcid.org/0000-0001-6515-3735](http://orcid.org/orcid.org/0000-0001-6515-3735).
  - my account on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
  - my account on [GitHub](https://github.com/stephanieleroux)
