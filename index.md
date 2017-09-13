@@ -5,8 +5,8 @@ order: 1
 ---
 
 
-### **PhD, Scientist at [Ocean Next](http://www.ocean-next.fr)** 
-* I am a scientist at [**Ocean Next**](http://www.ocean-next.fr), in Grenoble, France, since July 2017. I take part in Ocean Next R&D activities related to  ensemble approaches in ocean numerical modelling and data analysis.
+### **PhD, research scientist at [Ocean Next](http://www.ocean-next.fr)** 
+* I am a research scientist at [**Ocean Next**](http://www.ocean-next.fr), Grenoble, France, since July 2017. I take part in Ocean Next R&D activities related to  ensemble approaches in ocean numerical modelling and data analysis.
 
 * On-going project: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://stephanieleroux.github.io/Research/).
 
@@ -28,7 +28,7 @@ order: 1
       - CNRM/Météo-France, Toulouse, France (2013-2014),
       - MEOM/IGE, Grenoble, France (2015-2017)
  	
- - I am now a scientist at  Ocean Next, Grenoble, France since July 2017.
+ - I am now a research scientist at  Ocean Next, Grenoble, France since July 2017.
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
