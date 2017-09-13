@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-### **PhD, Scientist at [**Ocean Next**](http://www.ocean-next.fr)** 
+### **PhD, Scientist at [Ocean Next](http://www.ocean-next.fr)** 
 * I am a scientist at [**Ocean Next**](http://www.ocean-next.fr), in Grenoble, France, since July 2017. I take part in Ocean Next R&D activities related to  ensemble approaches in ocean numerical modelling and data analysis.
 
 * On-going project: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://stephanieleroux.github.io/Research/).
