@@ -5,11 +5,9 @@ permalink: /publications/
 order: 3
 ---
 
-### Submitted, under review
-- (2017, under review) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC :insights from a large ensemble ocean hindcast.*
-
-
 ### Peer-reviewed 
+- (2018, accepted, in press) **Leroux S.,** Penduff T., Bessières L.,   Molines J.-M. , Brankart J.-M., Barnier B., Serazin G.,Terray L.,  J. of Climate, Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.
+
 - (2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., Geophys. Res. Lett., 44(11):5580–5589, [doi:10.1002/2017GL073026](http://dx.doi.org/10.1002/2017GL073026) A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.
 
 - (2017) Bessières L.,  **Leroux S.**, Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. [doi:10.5194/gmd-10-1091-2017](https://www.geosci-model-dev.net/10/1091/2017/gmd-10-1091-2017.pdf) Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.
