@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://stephanieleroux.github.io/essai_ON//sitemap.xml
+Sitemap: https://stephanieleroux.github.io/essai_ON/sitemap.xml
