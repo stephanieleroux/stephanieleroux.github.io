@@ -144,7 +144,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/search/">Search</a></li>
+              <li><a  href="https://stephanieleroux.github.io/essai_ON/temp/">Search</a></li>
 
             
             
@@ -158,7 +158,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/contact/">Contact us</a></li>
+              <li><a  href="https://stephanieleroux.github.io/essai_ON/temp/">Contact us</a></li>
 
             
             
@@ -192,7 +192,7 @@
 
             
             
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/about-us/">About Us</a></li>
+              <li><a  href="https://stephanieleroux.github.io/essai_ON/temp/">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -291,14 +291,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://stephanieleroux.github.io/essai_ON/blog/">News</a>
+                <a  href="https://stephanieleroux.github.io/essai_ON/temp/">News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="https://stephanieleroux.github.io/essai_ON/temp/">Blog Archive</a></li>
                     
                   </ul>
 
