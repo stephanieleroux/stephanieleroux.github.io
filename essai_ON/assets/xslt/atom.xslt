@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://stephanieleroux.github.io/essai_ON/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/essai_ON/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://stephanieleroux.github.io/essai_ON/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/essai_ON/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://stephanieleroux.github.io/essai_ON/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/essai_ON/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Ocean Next: Hydrosphere Data and Numerics">
-	<meta property="og:url" content="https://stephanieleroux.github.io/essai_ON/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/essai_ON/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Ocean Next">
@@ -54,34 +54,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="https://stephanieleroux.github.io/essai_ON/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/essai_ON/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://stephanieleroux.github.io/essai_ON/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/essai_ON/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://stephanieleroux.github.io/essai_ON/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/essai_ON/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://stephanieleroux.github.io/essai_ON/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/essai_ON/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://stephanieleroux.github.io/essai_ON/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/essai_ON/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -97,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://stephanieleroux.github.io/essai_ON" class="icon-tree"> Ocean Next</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/essai_ON" class="icon-tree"> Ocean Next</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -144,7 +144,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/search/">Search</a></li>
+              <li><a  href="http://localhost:4000/essai_ON/search/">Search</a></li>
 
             
             
@@ -158,7 +158,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/contact/">Contact us</a></li>
+              <li><a  href="http://localhost:4000/essai_ON/contact/">Contact us</a></li>
 
             
             
@@ -177,7 +177,7 @@
 
             
             
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/">Home</a></li>
+              <li><a  href="http://localhost:4000/essai_ON/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -192,7 +192,7 @@
 
             
             
-              <li><a  href="https://stephanieleroux.github.io/essai_ON/about-us/">About Us</a></li>
+              <li><a  href="http://localhost:4000/essai_ON/about-us/">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -209,29 +209,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://stephanieleroux.github.io/essai_ON/expertise/">Our Expertise</a>
+                <a  href="http://localhost:4000/essai_ON/expertise/">Our Expertise</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/expertise/hydro/">Global hydrological database</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/expertise/hydro/">Global hydrological database</a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/expertise/hires-simulations/">Hi-Res ocean simulations </a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/expertise/hires-simulations/">Hi-Res ocean simulations </a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/expertise/ensemble/">Large-ensemble ocean simulations</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/expertise/ensemble/">Large-ensemble ocean simulations</a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/expertise/ai-approaches/">A.I. approaches in oceanography</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/expertise/ai-approaches/">A.I. approaches in oceanography</a></li>
                     
                   </ul>
 
@@ -250,29 +250,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://stephanieleroux.github.io/essai_ON/team/">Our Team</a>
+                <a  href="http://localhost:4000/essai_ON/team/">Our Team</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/team/">Jacques Verron, CEO and founder</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/team/">Jacques Verron, CEO and founder</a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/team/">Stephanie Leroux</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/team/">Stephanie Leroux</a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/team/">Laurent Brodeau</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/team/">Laurent Brodeau</a></li>
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/team/">Léa Lasson</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/team/">Léa Lasson</a></li>
                     
                   </ul>
 
@@ -291,14 +291,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://stephanieleroux.github.io/essai_ON/blog/">News</a>
+                <a  href="http://localhost:4000/essai_ON/blog/">News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://stephanieleroux.github.io/essai_ON/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000/essai_ON/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -330,8 +330,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://stephanieleroux.github.io/essai_ON/" title="Ocean Next – Hydrosphere Data and Numerics">
-				<img src="https://stephanieleroux.github.io/essai_ON/assets/img/logo.png" alt="Ocean Next – Hydrosphere Data and Numerics">
+			<a id="logo" href="http://localhost:4000/essai_ON/" title="Ocean Next – Hydrosphere Data and Numerics">
+				<img src="http://localhost:4000/essai_ON/assets/img/logo.png" alt="Ocean Next – Hydrosphere Data and Numerics">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -409,7 +409,7 @@
 
             <p class="shadow-black">
               Ocean Next: Hydrosphere Data and Numerics
-              <a href="https://stephanieleroux.github.io/essai_ON/info/">More ›</a>
+              <a href="http://localhost:4000/essai_ON/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -431,22 +431,22 @@
               
                 
                   <li >
-                    <a href="https://stephanieleroux.github.io/essai_ON"  title=""></a>
+                    <a href="http://localhost:4000/essai_ON"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://stephanieleroux.github.io/essai_ON/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/essai_ON/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://stephanieleroux.github.io/essai_ON/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/essai_ON/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://stephanieleroux.github.io/essai_ON/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/essai_ON/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -487,7 +487,7 @@
 		
 
 
-<script src="https://stephanieleroux.github.io/essai_ON/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/essai_ON/assets/js/javascript.min.js"></script>
 
 
 
