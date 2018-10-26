@@ -16,7 +16,7 @@ order: 1
 
 
 ### **Academic background and Curriculum Vitae** :
- - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CV_leroux_2018EN.pdf), updated oct. 2018. Et un [**CV en français** ici](http://stephanieleroux.github.io/docs/CV_leroux2018FR.pdf).
+ - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2018EN.pdf), updated oct. 2018. Et un [**CV en français** ici](http://stephanieleroux.github.io/docs/CVleroux2018FR.pdf).
  
  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
  
