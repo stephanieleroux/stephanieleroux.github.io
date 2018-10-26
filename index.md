@@ -8,7 +8,7 @@ order: 1
 ### **PhD, research scientist at [Ocean Next](http://www.ocean-next.fr)** 
 * I am a research scientist at [**Ocean Next**](http://www.ocean-next.fr), Grenoble, France, since July 2017. I take part in Ocean Next R&D activities related to  ensemble approaches in ocean numerical modelling and data analysis.
 
-* On-going project: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://stephanieleroux.github.io/Research/).
+* On-going projects: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://ocean-next.fr/expertise/ensembles/).
 
 [![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
 
@@ -16,7 +16,7 @@ order: 1
 
 
 ### **Academic background and Curriculum Vitae** :
- - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2017EN.pdf), updated feb. 2017.
+ - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CVleroux2018EN.pdf), updated oct. 2018. Et un [**CV en français** ici](http://stephanieleroux.github.io/docs/CVleroux2018FR.pdf).
  
  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
  
