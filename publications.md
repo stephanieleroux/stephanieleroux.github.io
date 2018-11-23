@@ -7,7 +7,7 @@ order: 3
 
 
 ### Peer-reviewed
- - (2018) Hall N., **Leroux S.**, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi]](https://doi.org/10.1007/s00382-018-4539-y).
+ - (2018) Hall N., **Leroux S.**, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi: 10.1007/s00382-018-4539-y]](https://rdcu.be/bbLtn).
 
  - (2018) Zanna, L., J.M. Brankart, M. Huber, **S. Leroux**, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. 2018;1–16; doi:10.1002/qj.3397, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
   
