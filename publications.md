@@ -5,9 +5,14 @@ permalink: /publications/
 order: 3
 ---
 
+### In preparation
+  - (2019) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico. _To be submitted to Journal of Atmospheric and Oceanic Technology_.
 
 ### Peer-reviewed
- - (2018) Hall N., **Leroux S.**, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. Climate Dynamics, 1-15, _Early Online Release_, [[doi: 10.1007/s00382-018-4539-y]](https://rdcu.be/bbLtn).
+
+ - (2019) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and **S. Leroux**. Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos. _Surveys in Geophysics_, [[doi: 10.1007/s10712-019-09571-7]](https://doi.org/10.1007/s10712-019-09571-7).  
+
+ - (2018) Hall N., **Leroux S.**, Ambrizzi T. Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model. _Climate Dynamics_ (2019) 52: 6719. [[doi: 10.1007/s00382-018-4539-y]](https://doi.org/10.1007/s00382-018-4539-y).
 
  - (2018) Zanna, L., J.M. Brankart, M. Huber, **S. Leroux**, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. 2018;1–16; doi:10.1002/qj.3397, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
   
