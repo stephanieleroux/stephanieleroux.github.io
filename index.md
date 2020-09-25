@@ -29,7 +29,7 @@ order: 1
       - CNRM/Météo-France, Toulouse, France (2013-2014),
       - MEOM/IGE, Grenoble, France (2015-2017)
 
- - I am now a research scientist at  Ocean Next, Grenoble, France since July 2017.
+ - I am now a research scientist from  Ocean Next, Grenoble, France since July 2017,  with a long-term visiting position in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France.
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
