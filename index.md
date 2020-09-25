@@ -6,7 +6,7 @@ order: 1
 
 
 ### **PhD, research scientist at [Ocean Next](http://www.ocean-next.fr)** 
-* I am a research scientist at [**Ocean Next**](http://www.ocean-next.fr) since July 2017, with a long-term visiting position at IGE, Grenoble, France. I take part in Ocean Next R&D activities related to ensemble/probabilistic approaches in ocean numerical modeling and data analysis in projects  dedicated to spatial and operational oceanography.
+* I am a research scientist at [**Ocean Next**](http://www.ocean-next.fr) since July 2017, with a long-term visiting position in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France. I take part in Ocean Next R&D activities related to ensemble/probabilistic approaches in ocean numerical modeling and data analysis in projects  dedicated to spatial and operational oceanography.
 * On-going projects:
   * Short-term predictability of  surface ocean fine scale dynamics based on ensembles of high-resolution kilometric-scale regional ocean simulations (e.g. H2020-IMMERSE,  SWOT-MIDAS).
   *  [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://ocean-next.fr/expertise/ensembles/).
