@@ -6,9 +6,12 @@ order: 3
 ---
 
 ### In preparation
-  - (2019) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico. _To be submitted to Journal of Atmospheric and Oceanic Technology_.
+  - (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.*
 
 ### Peer-reviewed
+
+* (2020) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An Adaptive Optimal Interpolation Based on Analog Forecasting: Application to SSH in the Gulf of Mexico.  _Journal of Atmospheric and Oceanic Technology_ (2020) 37, 1697–1711 [[doi: 10.1175/JTECH-D-20-0001.1]](https://doi.org/10.1175/JTECH-D-20-0001.1).
+* (2020) N. Hall,  H. Le,. & **S. Leroux**,  *The extratropical response to a developing MJO: forecast and climate simulations with the DREAM model.* Clim Dyn, 55, 813–829 (2020). [[doi: 10.1007/s00382-020-05299-y]](https://doi.org/10.1007/s00382-020-05299-y).
 
  - (2019) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and **S. Leroux**. Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos. _Surveys in Geophysics_, [[doi: 10.1007/s10712-019-09571-7]](https://doi.org/10.1007/s10712-019-09571-7).  
 
@@ -34,7 +37,7 @@ order: 3
 - (2009) Janicot S., F. Mounier, N. M. J. Hall, **Leroux S.**, B. Sultan, and G. N. Kiladis. The west african monsoon dynamics. part IV: analysis of the 25-90 day variability of convection and the role of the indian monsoon. J. Climate, 22:1541–1565.
 - (2008) Vanvyve E., N. Hall, C. Messager, **S. Leroux**, and J. van Ypersele. Internal variability in a regional climate model over West Africa. Climate Dynamics, 30:191–202.
 
- 
+
 ### PhD Thesis dissertation
 
 - (2009) **Leroux S.** , Dynamics of the African Easterly Waves: origin, propagation and interaction with the environnement.  Université J. Fourier, Grenoble, France. [Pdf here](https://tel.archives-ouvertes.fr/tel-00434322/document)  (mostly in french).
