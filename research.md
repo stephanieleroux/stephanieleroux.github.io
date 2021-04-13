@@ -27,12 +27,9 @@ The predictability properties are statistically assessed using a cross-validatio
 
 .
 
-.
-
-
-#### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
 
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
+#### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
 
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes.
 Comparing observations to ocean numerical simulations is a routinely-used approach to either validate models,  calibrate new observation systems, or inverstigate physical processes and mechanisms.  But such comparison requires some knowledge of the different types of uncertainties attached to the compared datasets.
