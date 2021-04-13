@@ -8,11 +8,10 @@ order: 2
 ### Some on-going projects at Ocean Next: 
 .
 
-.
-
 ---
 
 #### 1. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
+---
 [![image]({{site.baseurl}}/img/MEDWEST60config.png)](http://stephanieleroux.github.io/research)
 
 In this project, we investigate the predictability properties of the ocean dynamics using an ensemble of medium range numerical forecasts. This question is particularly relevant for ocean dynamics at small scales (< 30 km), where sub-mesoscale dynamics is responsible for the fast evolution of ocean properties. Relatively little is known about the predictability properties of a high resolution model, and hence about the accuracy and resolution that is needed from the observation system used to generate the initial conditions.
@@ -32,6 +31,7 @@ The predictability properties are statistically assessed using a cross-validatio
 
 ---
 #### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
+---
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
 
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes.
@@ -44,8 +44,11 @@ In other words, it means that the most accurate collection of satellite/in-situ 
 
 At [Ocean Next](http://www.ocean-next.fr), in partnership with the [MEOM](https://meom-group.github.io/) group within several projects (e.g.  ANR [OCCIPUT](https://meom-group.github.io/projects/occiput/) and  PIRATE-OSTST), we develop such  probabilistic approaches, based on large-ensemble eddy-permitting ocean simulations. Our goal is to better quantify and characterize the model uncertainty related to the intrinsic variabity of the ocean, and to provide useful information to better interpret satellite and in-situ ocean data. It includes  a quantification of the chaotic variability and a better characterization of the locations, depth, temporal and spatial scales that are the most affected by a chaotic behaviour in models, and wich are thus  affected by  the largest uncertainty in any comparison with satellite or in-situ observations.
 
+.
 
+---
 ### My research background:
+---
   - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
   - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, Atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
   - See my list of peer-reviewed publications [here](http://stephanieleroux.github.io/publications/) or on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
