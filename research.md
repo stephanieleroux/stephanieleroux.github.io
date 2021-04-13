@@ -5,13 +5,11 @@ permalink: /Research/
 order: 2
 ---
 
-[![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
-
-
 ### Some on-going projects at Ocean Next: 
-
+---
 
 #### 1. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
+[![image]({{site.baseurl}}/img/MEDWEST60config.png)](http://stephanieleroux.github.io/research)
 
 In this project, we investigate the predictability properties of the ocean dynamics using an ensemble of medium range numerical forecasts. This question is particularly relevant for ocean dynamics at small scales (< 30 km), where sub-mesoscale dynamics is responsible for the fast evolution of ocean properties. Relatively little is known about the predictability properties of a high resolution model, and hence about the accuracy and resolution that is needed from the observation system used to generate the initial conditions.
 
@@ -19,11 +17,12 @@ A kilometric-scale regional configuration of NEMO for the Western Mediterranean 
 
 The predictability properties are statistically assessed using a cross-validation algorithm (i.e. using alternatively each ensemble member as the reference truth and the remaining 19 members as the ensemble forecast) together with a specific score to characterize the initial and forecast accuracy. From the joint distribution of initial and final scores, it is then possible to quantify the probability distribution of the forecast score given the initial score, or reciprocally to derive conditions on the initial accuracy to obtain a target forecast skill. In this contribution, the misfit between ensemble members is quantified in terms of overall accuracy (CRPS score), geographical position of the ocean structures (location score), and  spatial spectral decorrelation of the Sea Surface Height 2-D fields (spectral score). For example, our results show that, in the region and period  of interest, the initial location accuracy required (necessary condition) with a perfect model (deterministic) to obtain a location accuracy of the forecast of 10 km with a 95% confidence is about 8 km for a 1-day forecast, 4 km for a 5-day forecast, 1.5 km for a 10-day forecast, and this requirement cannot be met with a 15-day or longer forecast.
 
-The MEDWEST60 github is here: https://github.com/ocean-next/MEDWEST60
-More references to be found here: https://github.com/ocean-next/MEDWEST60/blob/main/01_Documents.md
+The MEDWEST60 github is here: [https://github.com/ocean-next/MEDWEST60](https://github.com/ocean-next/MEDWEST60).
 
-[![image]({{site.baseurl}}/img/MEDWEST60config.png)](http://stephanieleroux.github.io/research) 
+More [references to be found on this page](https://github.com/ocean-next/MEDWEST60/blob/main/01_Documents.md).
 
+---
+[![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
 #### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
 
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes.
