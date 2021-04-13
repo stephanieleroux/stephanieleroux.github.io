@@ -21,9 +21,9 @@ A kilometric-scale regional configuration of NEMO for the Western Mediterranean 
 
 The predictability properties are statistically assessed using a cross-validation algorithm (i.e. using alternatively each ensemble member as the reference truth and the remaining 19 members as the ensemble forecast) together with a specific score to characterize the initial and forecast accuracy. From the joint distribution of initial and final scores, it is then possible to quantify the probability distribution of the forecast score given the initial score, or reciprocally to derive conditions on the initial accuracy to obtain a target forecast skill. In this contribution, the misfit between ensemble members is quantified in terms of overall accuracy (CRPS score), geographical position of the ocean structures (location score), and  spatial spectral decorrelation of the Sea Surface Height 2-D fields (spectral score). For example, our results show that, in the region and period  of interest, the initial location accuracy required (necessary condition) with a perfect model (deterministic) to obtain a location accuracy of the forecast of 10 km with a 95% confidence is about 8 km for a 1-day forecast, 4 km for a 5-day forecast, 1.5 km for a 10-day forecast, and this requirement cannot be met with a 15-day or longer forecast.
 
-* The MEDWEST60 github is here: [https://github.com/ocean-next/MEDWEST60](https://github.com/ocean-next/MEDWEST60).
+* More infos on the [MEDWEST60 github here: https://github.com/ocean-next/MEDWEST60](https://github.com/ocean-next/MEDWEST60).
 
-* More [references to be found on this page](https://github.com/ocean-next/MEDWEST60/blob/main/01_Documents.md).
+* And more [references on this work to be found on this page](https://github.com/ocean-next/MEDWEST60/blob/main/01_Documents.md).
 
 
 .
