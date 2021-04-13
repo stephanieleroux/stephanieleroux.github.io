@@ -6,6 +6,10 @@ order: 2
 ---
 
 ### Some on-going projects at Ocean Next: 
+.
+
+.
+
 ---
 
 #### 1. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
@@ -22,6 +26,9 @@ The predictability properties are statistically assessed using a cross-validatio
 * More [references to be found on this page](https://github.com/ocean-next/MEDWEST60/blob/main/01_Documents.md).
 
 
+.
+
+.
 
 ---
 #### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
