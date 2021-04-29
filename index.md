@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-### **PhD, research engineer ** 
+### **PhD, research engineer** 
 * I am a research engineer at Ocean Next (July 2017 - June 2021), with a long-term visiting position in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France. I take part in Ocean Next R&D activities related to ensemble/probabilistic approaches in ocean numerical modeling and data analysis in projects  dedicated to spatial and operational oceanography.
 * Some on-going projects:
   * [Short-term predictability of  surface ocean fine scale dynamics based on ensembles of high-resolution kilometric-scale regional ocean simulations](https://github.com/ocean-next/MEDWEST60) (H2020-IMMERSE,  SWOT-MIDAS),
