@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /Research/
+title: Projects/Realisations
+permalink: /Projects/
 order: 2
 ---
 
