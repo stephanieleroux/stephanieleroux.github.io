@@ -26,7 +26,7 @@ The predictability properties are statistically assessed using a cross-validatio
 
 
 .
-
+---
 #### 2. H2020-EUROSEA: Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures
 * More infos on the [EUROSEA-ON github https://github.com/ocean-next/EUROSEA](https://github.com/ocean-next/EUROSEA).
 
