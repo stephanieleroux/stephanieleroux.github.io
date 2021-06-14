@@ -8,10 +8,10 @@ order: 1
 ### **PhD, research engineer in numerical modelling and data processing in oceanography and climate sciences** 
 * I am a research engineer at Ocean Next (July 2017 - June 2021), and  long-term collaborator in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France. I am in charge of Ocean Next R&D activities related to ensemble/probabilistic approaches in ocean numerical modeling and statistical data analysis, in projects  dedicated to spatial and operational oceanography.
 * Some on-going projects and technical realisations i'm involved in:
-  * [Short-term predictability of  surface ocean fine scale dynamics based on ensembles of high-resolution kilometric-scale regional ocean simulations (GitHub page)](https://github.com/ocean-next/MEDWEST60) (H2020-IMMERSE,  SWOT-MIDAS),
-  * [Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures (GitHub page)](https://github.com/ocean-next/EUROSEA) (H2020-EUROSEA),
-  * IMpacts of freshwater discHarge interannual variability on Ocean heaT-salt contents and rEgional sea level change over the altimetry Period(OST-IMHOTEP),
-  * [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](https://ocean-next.fr/expertise/ensembles/).
+  * H2020-IMMERSE-MEDWEST60: [An ensembles of high-resolution kilometric-scale regional ocean simulations to study short-term predictability of  surface ocean fine scale dynamics based on  (GitHub page here)](https://github.com/ocean-next/MEDWEST60),
+  * H2020-EUROSEA: [Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures (GitHub page here)](https://github.com/ocean-next/EUROSEA),
+  * OSTST-IMHOTEP: [IMpacts of freshwater discHarge interannual variability on Ocean heaT-salt contents and rEgional sea level change over the altimetry Period (web page under construction](),
+  * CMEMS-GLO-HR: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](./research.md).
 
 [![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
 
