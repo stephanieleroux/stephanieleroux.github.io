@@ -27,9 +27,14 @@ The predictability properties are statistically assessed using a cross-validatio
 
 .
 
+#### 2. H2020-EUROSEA: Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures
+* More infos on the [EUROSEA-ON github https://github.com/ocean-next/EUROSEA](https://github.com/ocean-next/EUROSEA).
+
+
+.
 
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
-#### 2. Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
+#### 3. CMEMS-GLO-HR:  Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
 
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes.
 Comparing observations to ocean numerical simulations is a routinely-used approach to either validate models,  calibrate new observation systems, or inverstigate physical processes and mechanisms.  But such comparison requires some knowledge of the different types of uncertainties attached to the compared datasets.
@@ -44,12 +49,6 @@ At [Ocean Next](http://www.ocean-next.fr), in partnership with the [MEOM](https:
 .
 
 .
-
-### My research background:
-
-  - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
-  - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, Atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
-  - See my list of peer-reviewed publications [here](http://stephanieleroux.github.io/publications/) or on [Research Gate](http://www.researchgate.net/profile/Stephanie_Leroux).
 
 
 [![image]({{site.baseurl}}/img/ensemble.png)](http://stephanieleroux.github.io/research) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
