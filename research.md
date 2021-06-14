@@ -5,7 +5,7 @@ permalink: /Projects/
 order: 2
 ---
 
-### Some on-going projects at Ocean Next: 
+### Some on-going or recent projects: 
 .
 
 
