@@ -38,6 +38,13 @@ order: 3
 - (2008) Vanvyve E., N. Hall, C. Messager, **S. Leroux**, and J. van Ypersele. Internal variability in a regional climate model over West Africa. Climate Dynamics, 30:191–202.
 
 
+### Deliverable and technical reports
+
+- (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, H2020-IMMERSE Deliverable D7.2: *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.* [doi: 10.5281/zenodo.4570158](https://www.doi.org/10.5281/zenodo.4570158).
+- (2020) B. Barcelo-Llull, A. Pascual,  E. Cutolo, R. Fablet, F. Gasparin, S. Guinehut,  J. Lasheras, **S.  Leroux**, A. Mignot, B. Mourre, S.  Mulet, E. Remy, S. Speich,  and N. Verbrugge, Deliverable D2.1: *Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures*. [doi: 10.3289/eurosea\_d2.1](https://doi.org/10.3289/eurosea_d2.1).
+
+
+
 ### PhD Thesis dissertation
 
 - (2009) **Leroux S.** , Dynamics of the African Easterly Waves: origin, propagation and interaction with the environnement.  Université J. Fourier, Grenoble, France. [Pdf here](https://tel.archives-ouvertes.fr/tel-00434322/document)  (mostly in french).
