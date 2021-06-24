@@ -35,7 +35,7 @@ order: 1
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
-### **Research background**:
+### **Topic interests**:
   - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
   - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
 
