@@ -15,7 +15,7 @@ order: 3
 ### Articles in preparation
   - (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.*
 
-### Peer-reviewed articles
+### Published articles (peer reviewed)
 
 * (2020) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An Adaptive Optimal Interpolation Based on Analog Forecasting: Application to SSH in the Gulf of Mexico.  _Journal of Atmospheric and Oceanic Technology_ (2020) 37, 1697–1711 [[doi: 10.1175/JTECH-D-20-0001.1]](https://doi.org/10.1175/JTECH-D-20-0001.1).
 * (2020) N. Hall,  H. Le,. & **S. Leroux**,  *The extratropical response to a developing MJO: forecast and climate simulations with the DREAM model.* Clim Dyn, 55, 813–829 (2020). [[doi: 10.1007/s00382-020-05299-y]](https://doi.org/10.1007/s00382-020-05299-y).
