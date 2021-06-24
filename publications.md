@@ -5,10 +5,17 @@ permalink: /publications/
 order: 3
 ---
 
-### In preparation
+
+### Project deliverables and technical reports
+
+- (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, H2020-IMMERSE Deliverable D7.2: *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.* [doi: 10.5281/zenodo.4570158](https://www.doi.org/10.5281/zenodo.4570158).
+- (2020) B. Barcelo-Llull, A. Pascual,  E. Cutolo, R. Fablet, F. Gasparin, S. Guinehut,  J. Lasheras, **S.  Leroux**, A. Mignot, B. Mourre, S.  Mulet, E. Remy, S. Speich,  and N. Verbrugge, Deliverable D2.1: *Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures*. [doi: 10.3289/eurosea\_d2.1](https://doi.org/10.3289/eurosea_d2.1).
+
+
+### Articles in preparation
   - (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.*
 
-### Peer-reviewed
+### Peer-reviewed articles
 
 * (2020) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An Adaptive Optimal Interpolation Based on Analog Forecasting: Application to SSH in the Gulf of Mexico.  _Journal of Atmospheric and Oceanic Technology_ (2020) 37, 1697–1711 [[doi: 10.1175/JTECH-D-20-0001.1]](https://doi.org/10.1175/JTECH-D-20-0001.1).
 * (2020) N. Hall,  H. Le,. & **S. Leroux**,  *The extratropical response to a developing MJO: forecast and climate simulations with the DREAM model.* Clim Dyn, 55, 813–829 (2020). [[doi: 10.1007/s00382-020-05299-y]](https://doi.org/10.1007/s00382-020-05299-y).
@@ -36,13 +43,6 @@ order: 3
 - (2009) **Leroux S.** and N. M. J. Hall. On the relationship between African Easterly Waves and the African Easterly Jet. J. Atmos. Sci., 66:2303–2316.
 - (2009) Janicot S., F. Mounier, N. M. J. Hall, **Leroux S.**, B. Sultan, and G. N. Kiladis. The west african monsoon dynamics. part IV: analysis of the 25-90 day variability of convection and the role of the indian monsoon. J. Climate, 22:1541–1565.
 - (2008) Vanvyve E., N. Hall, C. Messager, **S. Leroux**, and J. van Ypersele. Internal variability in a regional climate model over West Africa. Climate Dynamics, 30:191–202.
-
-
-### Deliverable and technical reports
-
-- (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, H2020-IMMERSE Deliverable D7.2: *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.* [doi: 10.5281/zenodo.4570158](https://www.doi.org/10.5281/zenodo.4570158).
-- (2020) B. Barcelo-Llull, A. Pascual,  E. Cutolo, R. Fablet, F. Gasparin, S. Guinehut,  J. Lasheras, **S.  Leroux**, A. Mignot, B. Mourre, S.  Mulet, E. Remy, S. Speich,  and N. Verbrugge, Deliverable D2.1: *Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures*. [doi: 10.3289/eurosea\_d2.1](https://doi.org/10.3289/eurosea_d2.1).
-
 
 
 ### PhD Thesis dissertation
