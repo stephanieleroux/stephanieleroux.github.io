@@ -6,7 +6,7 @@ order: 1
 
 
 ### **PhD, research engineer in numerical modelling and data processing in oceanography and climate sciences** 
-* I am a research engineer at Ocean Next (July 2017 - June 2021), and  long-term collaborator in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France. I am in charge of Ocean Next R&D activities related to ensemble/probabilistic approaches in ocean numerical modeling and statistical data analysis, in projects  dedicated to spatial and operational oceanography.
+* I am a scientist and research engineer, currently working  in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean numerical modeling and statistical data analysis, in projects  dedicated to spatial and operational oceanography.
 * Some recent or on-going projects and technical realisations i'm involved in:
   * H2020-IMMERSE-MEDWEST60: [An ensembles of high-resolution kilometric-scale regional ocean simulations to study short-term predictability of  surface ocean fine scale dynamics based on  (GitHub page here)](https://github.com/ocean-next/MEDWEST60),
   * H2020-EUROSEA: [Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures (GitHub page here)](https://github.com/ocean-next/EUROSEA),
@@ -25,13 +25,14 @@ order: 1
 
  - **I have a PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. [[pdf]](https://tel.archives-ouvertes.fr/tel-00434322/).
   
- - I have then worked as a postdoctoral research assistant at:
+ - I have then worked at:
       - NOAA, Boulder, CO, USA (2010-2011),
       - SUNY , Albany, NY, USA (2012),
       - CNRM/Météo-France, Toulouse, France (2013-2014),
-      - MEOM/IGE, Grenoble, France (2015-2017)
-
- - I am currently a research engineer at  Ocean Next, Grenoble, France (July 2017-Jun2021),  and a long-term collaborator in the [MEOM group](https://meom-group.github.io/) at [IGE](http://www.ige-grenoble.fr/), Grenoble, France.
+      - MEOM/IGE, Grenoble, France (2015-2017),
+      - Ocean Next, grenoble, France (2017-2021),
+      - 
+ - and I am currently a scientist and research engineer at IGE, Grenoble, France (sept. 2021 - Present).
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
