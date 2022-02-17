@@ -6,7 +6,7 @@ order: 3
 ---
 
 
-### Articles in preparation
+### Articles in review
   - (2022, in review)   Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., Jamet, Q., Le Sommer, J., Penduff, T., and Brasseur, P.: _Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution: A Western Mediterranean test-case_, Ocean Sci. Discuss. [preprint], https://doi.org/10.5194/os-2022-11. 
 
 ### Published articles (peer reviewed)
