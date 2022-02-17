@@ -6,14 +6,8 @@ order: 3
 ---
 
 
-### Project deliverables and technical reports
-
-- (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, H2020-IMMERSE Deliverable D7.2: *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.* [doi: 10.5281/zenodo.4570158](https://www.doi.org/10.5281/zenodo.4570158).
-- (2020) B. Barcelo-Llull, A. Pascual,  E. Cutolo, R. Fablet, F. Gasparin, S. Guinehut,  J. Lasheras, **S.  Leroux**, A. Mignot, B. Mourre, S.  Mulet, E. Remy, S. Speich,  and N. Verbrugge, Deliverable D2.1: *Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures*. [doi: 10.3289/eurosea\_d2.1](https://doi.org/10.3289/eurosea_d2.1).
-
-
 ### Articles in preparation
-  - (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.*
+  - (2022, in review)   Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., Jamet, Q., Le Sommer, J., Penduff, T., and Brasseur, P.: _Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution: A Western Mediterranean test-case_, Ocean Sci. Discuss. [preprint], https://doi.org/10.5194/os-2022-11. 
 
 ### Published articles (peer reviewed)
 
@@ -44,6 +38,11 @@ order: 3
 - (2009) Janicot S., F. Mounier, N. M. J. Hall, **Leroux S.**, B. Sultan, and G. N. Kiladis. The west african monsoon dynamics. part IV: analysis of the 25-90 day variability of convection and the role of the indian monsoon. J. Climate, 22:1541–1565.
 - (2008) Vanvyve E., N. Hall, C. Messager, **S. Leroux**, and J. van Ypersele. Internal variability in a regional climate model over West Africa. Climate Dynamics, 30:191–202.
 
+
+### Project deliverables and technical reports
+
+- (2021)  **S. Leroux**, JM Brankart, A. Albert, JM Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, H2020-IMMERSE Deliverable D7.2: *Ensemble quantification of short-term predictability of the ocean fine-scale dynamics: A western mediterranean test-case at kilometric-scale resolution.* [doi: 10.5281/zenodo.4570158](https://www.doi.org/10.5281/zenodo.4570158).
+- (2020) B. Barcelo-Llull, A. Pascual,  E. Cutolo, R. Fablet, F. Gasparin, S. Guinehut,  J. Lasheras, **S.  Leroux**, A. Mignot, B. Mourre, S.  Mulet, E. Remy, S. Speich,  and N. Verbrugge, Deliverable D2.1: *Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures*. [doi: 10.3289/eurosea\_d2.1](https://doi.org/10.3289/eurosea_d2.1).
 
 ### PhD Thesis dissertation
 
