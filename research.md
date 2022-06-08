@@ -10,7 +10,7 @@ order: 2
 
 #### 1. SASIP: [The scale-aware sea ice project](https://sasip-climate.github.io/)
 
-#### 2. OSTST-IMHOTEP: [(github)]([https://sasip-climate.github.io/](https://github.com/imhotep-project/imhotep-project-on-github)
+#### 2. OSTST-IMHOTEP: [(github)](https://github.com/imhotep-project/imhotep-project-on-github)
 
 #### 3. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
 
