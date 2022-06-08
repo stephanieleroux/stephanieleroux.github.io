@@ -5,8 +5,8 @@ order: 1
 ---
 
 
-### **PhD, research engineer in numerical modelling and data processing in oceanography and climate sciences** 
-* I am a scientist and research engineer, currently working  in datlas, Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis, in projects  dedicated to spatial and operational oceanography.
+### **PhD, research engineer in numerical modelling and data processing in Earth sciences** 
+* I am a scientist and research engineer, currently working  in Datlas, Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis.
 * Some recent or on-going projects and technical realisations i'm involved in:
   * SASIP: [The Scale-Aware Sea ice Project](https://sasip-climate.github.io/)
   * H2020-IMMERSE-MEDWEST60: [An ensembles of high-resolution kilometric-scale regional ocean simulations to study short-term predictability of  surface ocean fine scale dynamics based on  (GitHub page here)](https://github.com/ocean-next/MEDWEST60),
@@ -32,8 +32,8 @@ order: 1
       - CNRM/Météo-France, Toulouse, France (2013-2014),
       - MEOM/IGE, Grenoble, France (2015-2017),
       - Ocean Next, grenoble, France (2017-2021),
-      - 
- - and I am currently a scientist and research engineer at IGE, Grenoble, France (sept. 2021 - Present).
+      
+ - and I am currently a scientist and research engineer in Datlas, Grenoble, France (Apr. 2022 - Present).
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
