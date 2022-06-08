@@ -9,6 +9,7 @@ order: 1
 * I am a scientist and research engineer, currently working  in Datlas, Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis.
 * Some recent or on-going projects and technical realisations i'm involved in:
   * SASIP: [The Scale-Aware Sea ice Project](https://sasip-climate.github.io/)
+  * OSTST-IMHOTEP [(github)]([https://sasip-climate.github.io/](https://github.com/imhotep-project/imhotep-project-on-github)
   * H2020-IMMERSE-MEDWEST60: [An ensembles of high-resolution kilometric-scale regional ocean simulations to study short-term predictability of  surface ocean fine scale dynamics based on  (GitHub page here)](https://github.com/ocean-next/MEDWEST60),
   * H2020-EUROSEA: [Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures (GitHub page here)](https://github.com/ocean-next/EUROSEA),
   * OSTST-IMHOTEP: [IMpacts of freshwater discHarge interannual variability on Ocean heaT-salt contents and rEgional sea level change over the altimetry Period (web page under construction](),
