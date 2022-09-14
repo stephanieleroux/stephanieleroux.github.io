@@ -6,7 +6,7 @@ order: 1
 
 
 ### **PhD, research engineer in numerical modelling and data processing in Earth sciences** 
-* I am a scientist and research engineer, currently working  in Datlas, Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis.
+* I am a scientist and research engineer, currently working  in [Datlas](https://www.datlas.fr), Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis.
 * Some recent or on-going projects and technical realisations i'm involved in:
   * SASIP: [The Scale-Aware Sea ice Project](https://sasip-climate.github.io/)
   * OSTST-IMHOTEP [(github)]([https://sasip-climate.github.io/](https://github.com/imhotep-project/imhotep-project-on-github)
@@ -21,7 +21,7 @@ order: 1
 
 
 ### **Academic background and Curriculum Vitae** :
- - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CV_leroux_2021EN.pdf), updated apr. 2021. 
+ - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CV_leroux_2022EN.pdf), updated apr. 2022. 
 
  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
 
@@ -33,8 +33,7 @@ order: 1
       - CNRM/Météo-France, Toulouse, France (2013-2014),
       - MEOM/IGE, Grenoble, France (2015-2017),
       - Ocean Next, grenoble, France (2017-2021),
-      
- - and I am currently a scientist and research engineer in Datlas, Grenoble, France (Apr. 2022 - Present).
+      - Datlas, Grenoble, France (Apr. 2022 - Present).
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
 
