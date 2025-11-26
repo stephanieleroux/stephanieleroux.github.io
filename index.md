@@ -33,6 +33,7 @@ order: 1
       - CNRM/Météo-France, Toulouse, France (2013-2014),
       - MEOM/IGE, Grenoble, France (2015-2017),
       - Ocean Next, grenoble, France (2017-2021),
+      - IGE, Grenoble, France (2021-2022),
       - Datlas, Grenoble, France (Apr. 2022 - Present).
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
