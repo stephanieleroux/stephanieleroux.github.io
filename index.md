@@ -6,8 +6,10 @@ order: 1
 
 
 ### **PhD, research engineer in numerical modelling and data processing in Earth sciences** 
-* I am a scientist and research engineer, currently working  in [Datlas](https://www.datlas.fr), Grenoble, France. I am interested in ensemble/probabilistic approaches in ocean & sea-ice numerical modeling and statistical data analysis.
+* I am a research scientist specialising in numerical modelling of the Earth system. My current work focuses on sea-ice and ocean modelling, with particular interest in ensemble and probabilistic approaches, sea ice short-term predictability, and the coupling of sea ice with the atmospheric boundary layer. I also have a previous background in atmospheric modelling. I’m based in Grenoble and co-founded [Datlas](www.datlas.fr), a small research company.
+  
 * Some recent or on-going projects and technical realisations i'm involved in:
+  * Arctic-BLISS: [A project on sea ice predictability and sea-ice-ABL interactions, funded by the Copernicups Marine Service](https://github.com/cmems-arcticbliss)
   * SASIP: [The Scale-Aware Sea ice Project](https://sasip-climate.github.io/)
   * OSTST-IMHOTEP [(github)]([https://sasip-climate.github.io/](https://github.com/imhotep-project/imhotep-project-on-github)
   * H2020-IMMERSE-MEDWEST60: [An ensembles of high-resolution kilometric-scale regional ocean simulations to study short-term predictability of  surface ocean fine scale dynamics based on  (GitHub page here)](https://github.com/ocean-next/MEDWEST60),
@@ -21,8 +23,6 @@ order: 1
 
 
 ### **Academic background and Curriculum Vitae** :
- - Here is my full  [**Curriculum Vitae [pdf]**](http://stephanieleroux.github.io/docs/CV_leroux_2022EN.pdf), updated apr. 2022. 
-
  - I am a former undergraduate student of Ecole Normale Supérieure de Lyon, France (2002-2004) and got my master degree in Earth and Environmental sciences (2006) from ENS Lyon and Uni. J. Fourier, Grenoble, France.
 
  - **I have a PhD in atmospheric dynamics (2009)** from  LTHE/Uni. J. Fourier, Grenoble, France. [[pdf]](https://tel.archives-ouvertes.fr/tel-00434322/).
@@ -36,10 +36,6 @@ order: 1
       - Datlas, Grenoble, France (Apr. 2022 - Present).
   
  - I also have the french diploma "Agrégation SVT" (2005) for  high-school teaching. 
-
-### **Topic interests**:
-  - Variability of the climate system : ocean and atmosphere numerical modeling and statistical analysis. 
-  - Keywords: *Eddy-permitting ocean GCMs, ocean low-frequency intrinsic variability, ensemble simulations, atmospheric GCMs, tropical variability, convectively coupled equatorial waves, MJO, deep convection, west-african monsoon, teleconnexions.*
 
 ### **Misc**.
  - My peered-reviewed publications: [here](https://stephanieleroux.github.io/publications/).
