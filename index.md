@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-### **PhD, research engineer in numerical modelling and data processing in Earth sciences** 
+### **PhD, research scientist in sea ice & ocean  modelling** 
 * I am a research scientist specialising in numerical modelling of the Earth system. My current work focuses on sea-ice and ocean modelling, with particular interest in ensemble and probabilistic approaches, sea ice short-term predictability, and the coupling of sea ice with the atmospheric boundary layer. I also have a previous background in atmospheric modelling. I’m based in Grenoble and co-founded [Datlas](www.datlas.fr), a small research company.
   
 * Some recent or on-going projects and technical realisations i'm involved in:
