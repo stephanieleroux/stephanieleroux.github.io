@@ -4,6 +4,7 @@ title: Home
 order: 1
 ---
 
+[![image]({{site.baseurl}}/img/illustration.png)](http://stephanieleroux.github.io)
 
 ### **PhD, research scientist in sea ice & ocean  modelling** 
 * I am a research scientist specialising in numerical modelling of the Earth system. My current work focuses on sea-ice and ocean modelling, with particular interest in ensemble and probabilistic approaches, sea ice short-term predictability, and the coupling of sea ice with the atmospheric boundary layer. I also have a previous background in atmospheric modelling. I’m based in Grenoble and co-founded [Datlas](www.datlas.fr), a small research company.
@@ -17,7 +18,6 @@ order: 1
   * OSTST-IMHOTEP: [IMpacts of freshwater discHarge interannual variability on Ocean heaT-salt contents and rEgional sea level change over the altimetry Period (web page under construction](),
   * CMEMS-GLO-HR: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](./research.md).
 
-[![image]({{site.baseurl}}/img/illustration.png)](http://stephanieleroux.github.io)
 
 
 ### .
