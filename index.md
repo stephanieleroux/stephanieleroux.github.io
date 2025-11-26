@@ -17,7 +17,8 @@ order: 1
   * OSTST-IMHOTEP: [IMpacts of freshwater discHarge interannual variability on Ocean heaT-salt contents and rEgional sea level change over the altimetry Period (web page under construction](),
   * CMEMS-GLO-HR: [Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data](./research.md).
 
-[![image]({{site.baseurl}}/img/SL_3.png)](http://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/ensemble.png)](https://stephanieleroux.github.io) | [![image]({{site.baseurl}}/img/hires.png)](https://stephanieleroux.github.io)
+[![image]({{site.baseurl}}/img/illustration.png)](http://stephanieleroux.github.io)
+
 
 ### .
 
