@@ -5,14 +5,24 @@ permalink: /publications/
 order: 3
 ---
 
+### In preparation
 
-### Articles in review
-  - (2022, in review)   Leroux, S., Brankart, J.-M., Albert, A., Brodeau, L., Molines, J.-M., Jamet, Q., Le Sommer, J., Penduff, T., and Brasseur, P.: _Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution: A Western Mediterranean test-case_, Ocean Sci. Discuss. [preprint], https://doi.org/10.5194/os-2022-11. 
+- (2025, in prep.) L. Fiol, S. Leroux, P. Rampal, and JM Brankart: How predictable is sea ice on daily-to-weekly timescales: sensitivity to initial positional errors and rheology formulation. The Cryosphere (in preparation).
 
 ### Published articles (peer reviewed)
 
-* (2020) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An Adaptive Optimal Interpolation Based on Analog Forecasting: Application to SSH in the Gulf of Mexico.  _Journal of Atmospheric and Oceanic Technology_ (2020) 37, 1697–1711 [[doi: 10.1175/JTECH-D-20-0001.1]](https://doi.org/10.1175/JTECH-D-20-0001.1).
-* (2020) N. Hall,  H. Le,. & **S. Leroux**,  *The extratropical response to a developing MJO: forecast and climate simulations with the DREAM model.* Clim Dyn, 55, 813–829 (2020). [[doi: 10.1007/s00382-020-05299-y]](https://doi.org/10.1007/s00382-020-05299-y).
+
+- (2024) Narinc, O., T. Penduff, G. Maze, **S. Leroux**, and J.-M. Molines, 2024 : North Atlantic Subtropical Mode Water properties : Intrinsic and atmospherically-forced interannual variability. Ocean Science, https://doi.org/10.5194/os-20-1351-2024
+
+- (2024) Tajouri, S., W. Llovel, F. Sevellec, J.-M. Molines, P. Mathiot, T. Penduff, and **S. Leroux**, 2024 : Simulated Impact of Time-Varying River Runoff and Greenland Freshwater Discharge on Sea Level Variability in the Beaufort Gyre Over 2005–2018. Journal of Geophysical Research, https://doi.org/10.1029/2024JC021237.
+
+- (2022) Jamet, Q., **S. Leroux**, W.K. Dewar, T. Penduff, J. Le Sommer, J.-M. Molines, and J. Gula, 2022 : Non-local eddy-mean kinetic energy transfers in submesoscale-permitting ensemble simulations. Journal of Advances in Modeling Earth Systems, https://doi.org/10.1029/2022MS003057.
+
+- (2022) **Leroux, S.**, J.-M. Brankart, A. Albert, L. Brodeau, J.-M. Molines, Q. Jamet, J. Le Sommer, T. Penduff, and P. Brasseur, 2022 : Ensemble quantification of short-term predictability of the ocean dynamics at kilometric-scale resolution : A Western Mediterranean test-case. Ocean Science, 18, 1619–1644, https://doi.org/10.5194/os-18-1619-2022
+
+- (2020) Zhen Y., P. Tandéo, **S. Leroux**, S. Métref, T. Penduff, J. LeSommer,  An Adaptive Optimal Interpolation Based on Analog Forecasting: Application to SSH in the Gulf of Mexico.  _Journal of Atmospheric and Oceanic Technology_ (2020) 37, 1697–1711 [[doi: 10.1175/JTECH-D-20-0001.1]](https://doi.org/10.1175/JTECH-D-20-0001.1).
+
+- (2020) N. Hall,  H. Le,. & **S. Leroux**,  *The extratropical response to a developing MJO: forecast and climate simulations with the DREAM model.* Clim Dyn, 55, 813–829 (2020). [[doi: 10.1007/s00382-020-05299-y]](https://doi.org/10.1007/s00382-020-05299-y).
 
  - (2019) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and **S. Leroux**. Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos. _Surveys in Geophysics_, [[doi: 10.1007/s10712-019-09571-7]](https://doi.org/10.1007/s10712-019-09571-7).  
 
