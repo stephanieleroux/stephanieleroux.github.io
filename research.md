@@ -5,14 +5,16 @@ permalink: /Projects/
 order: 2
 ---
 
-### Some on-going or recent projects: 
+### Some on-going and past projects: 
 .
 
-#### 1. SASIP: [The scale-aware sea ice project](https://sasip-climate.github.io/)
+#### 1. Copernicus Marine Service projet [Arctic-BLISS](https://github.com/cmems-arcticbliss))
 
-#### 2. OSTST-IMHOTEP: [(github)](https://github.com/imhotep-project/imhotep-project-on-github)
+#### 2. SASIP: [The scale-aware sea ice project](https://sasip-climate.github.io/)
 
-#### 3. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
+#### 3. OSTST-IMHOTEP: [(github)](https://github.com/imhotep-project/imhotep-project-on-github)
+
+#### 4. Ensemble quantification of  short-term predictability  of the ocean fine-scale dynamics
 
 [![image]({{site.baseurl}}/img/MEDWEST60config.png)](http://stephanieleroux.github.io/research)
 
@@ -29,14 +31,14 @@ The predictability properties are statistically assessed using a cross-validatio
 
 .
 ---
-#### 4. H2020-EUROSEA: Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures
+#### 5. H2020-EUROSEA: Design of the Observing System Simulation Experiments with multi-platform in situ data and impact on fine- scale structures
 * More infos on the [EUROSEA-ON github https://github.com/ocean-next/EUROSEA](https://github.com/ocean-next/EUROSEA).
 
 
 .
 
 [![image]({{site.baseurl}}/img/occischemewebsite_hiRes.png)](http://stephanieleroux.github.io/Research/) 
-#### 5. CMEMS-GLO-HR:  Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
+#### 6. CMEMS-GLO-HR:  Learning from large-ensemble ocean simulations to better interpret satellite and in-situ ocean data.
 
 Over the last decades, altimeter and other satellite and in-situ ocean observations have provided crucial information to increase our knowledge of the global oceanic state, its variability, and long-term changes.
 Comparing observations to ocean numerical simulations is a routinely-used approach to either validate models,  calibrate new observation systems, or inverstigate physical processes and mechanisms.  But such comparison requires some knowledge of the different types of uncertainties attached to the compared datasets.
